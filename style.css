@@ -5,13 +5,34 @@
 
 .center {
     margin: auto;
-    width: 90%;
+    width: 76%;
     height: 100%;
     border: 1px solid black;
     padding: 10px;
 }
 
 .navbar{
-    width: 90%;
+    width: 76%;
     margin: auto;
+}
+
+p{
+    margin-top: 2px;
+    margin-bottom: 5px;
+}
+
+.media p{
+    font-size: 90%;
+    text-align: justify;
+    margin-top: 20px;
+}
+
+small {
+    white-space: pre;
+}
+
+.media{
+    background-color: 		#afad3323;
+    border: 3px solid		#000000;
+    border-radius: 30px 30px;
 }
